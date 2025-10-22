@@ -7,6 +7,7 @@ Kinetic Labs provides alternative, lighter weight solutions to other tools in th
 - TraceThing: Painless Java profilign with minimal performance overhead
 - LoadThing: High-performance reverse-proxy with an abundance of features and plenty of monitoring to go along
 - DocThing: Generate docs from a Markdown file or code comments for any project
+- NixThing: A high-performance Nix parser, evaluator and AST library for Java
 
 ## Used languages
 For the curious-or nerdy-here are the programming languages we use:
@@ -18,3 +19,6 @@ For the curious-or nerdy-here are the programming languages we use:
     - Bonus points for being purple on GitHub
     - Bonus points for having a good LSP
     - Bonus points for being functional
+- [OCaml](https://ocaml.org): It is fun and type safety is a plus
+    - Bonus points: it can be called toecaml
+  
