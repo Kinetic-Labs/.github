@@ -16,7 +16,7 @@ For the curious-or nerdy-here are the programming languages we use:
 - [Rust](https://rust-lang.org): Fun, performant, safe and typed, great for low-level or projects needing a performance boost.
 - [Haskell](https://haskell.org): It is, infact, and esoteric language, but it's a good one and when it comes to parsing, type safety or being lazy, it's a pretty solid choice.
     - Bonus points for nix support with [Stack](https://haskellstack.org)
-    - Bonus points for being purple on GitHub
+    - 1000000000000 Bonus points for being purple on GitHub
     - Bonus points for having a good LSP
     - Bonus points for being functional
 - [OCaml](https://ocaml.org): It is fun and type safety is a plus
