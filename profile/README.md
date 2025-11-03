@@ -19,6 +19,14 @@ For the curious-or nerdy-here are the programming languages we use:
     - 1000000000000 Bonus points for being purple on GitHub
     - Bonus points for having a good LSP
     - Bonus points for being functional
-- [OCaml](https://ocaml.org): It is fun and type safety is a plus
-    - Bonus points: it can be called toecaml
-  
+- [C](https://www.c-language.org): Simple and fast
+- [C++](https://isocpp.org): I enjoy OOP and C++ has some cool safety features
+
+## Used tools
+- [Gradle](https://gradle.org/): The only build system you should be using for Java
+- [CMake](https://cmake.org/): A great build system for C/C++, it lets you create a project with minimal configuration and hit the ground running faster than any build system i've ever used.
+- [Autotools/Automake](https://www.gnu.org/software/automake/): Feels both lightweight and powerful
+- [Stack](https://docs.haskellstack.org/en/stable): Haskell build system thats almost tolerable
+- Please just use cargo for rust unless you really need to use something else
+
+That has been my Ted talk
