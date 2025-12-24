@@ -24,6 +24,7 @@ For the curious-or nerdy-here are the programming languages we use:
 
 ## Used tools
 - [Gradle](https://gradle.org/): The only build system you should be using for Java
+- [Maven](https://maven.apache.org/): The only build system you should actually use for Java lol both are good
 - [CMake](https://cmake.org/): A great build system for C/C++, it lets you create a project with minimal configuration and hit the ground running faster than any build system i've ever used.
 - [Autotools/Automake](https://www.gnu.org/software/automake/): Feels both lightweight and powerful
 - [Stack](https://docs.haskellstack.org/en/stable): Haskell build system thats almost tolerable
